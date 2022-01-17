@@ -31,4 +31,4 @@ Link to the PlayList: https://www.youtube.com/watch?v=uhPLWdvrF9g&amp;list=PLB1G
 24. [Java 8 Streams sorted() Method Example](https://youtu.be/IxGE3Q-UdMY)
 
 
-Chick here to Subscribe our YouTube Channel
+## [Chick here to Subscribe our YouTube Channel](https://www.youtube.com/channel/UCl31HHUdQbSHOQfc9L-wo3w?sub_confirmation=1)
