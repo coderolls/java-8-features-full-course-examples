@@ -29,6 +29,11 @@ Link to the PlayList: https://www.youtube.com/watch?v=uhPLWdvrF9g&amp;list=PLB1G
 22. [Java 8 Streams map() Method Example](https://youtu.be/w9veoZ8bSOY)
 23. [Java 8 Streams limit() Method Example](https://youtu.be/UaIJOgz6IiE)
 24. [Java 8 Streams sorted() Method Example](https://youtu.be/IxGE3Q-UdMY)
+25. [Java 8 Streams distinct() Method Example](https://youtu.be/BzI8aDMBwDg)
+26. [Java 8 Streams count() Method](https://youtu.be/bmfppT0Uygo)
 
 
 ## [Chick here to Subscribe our YouTube Channel](https://www.youtube.com/channel/UCl31HHUdQbSHOQfc9L-wo3w?sub_confirmation=1)
+
+
+##Visit [coderolls.com](https:coderolls.com)
