@@ -31,7 +31,8 @@ Link to the PlayList: https://www.youtube.com/watch?v=uhPLWdvrF9g&amp;list=PLB1G
 24. [Java 8 Streams sorted() Method Example](https://youtu.be/IxGE3Q-UdMY)
 25. [Java 8 Streams distinct() Method Example](https://youtu.be/BzI8aDMBwDg)
 26. [Java 8 Streams count() Method](https://youtu.be/bmfppT0Uygo)
-
+27. [Java 8 Streams collect() Method](https://youtu.be/9kVDY_9kCt4)
+28. [How to convert a Java 8 Stream to an Array?](https://youtu.be/tGWKHCSNfYc)
 
 ## [Chick here to Subscribe our YouTube Channel](https://www.youtube.com/channel/UCl31HHUdQbSHOQfc9L-wo3w?sub_confirmation=1)
 
