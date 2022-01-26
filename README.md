@@ -33,6 +33,7 @@ Link to the PlayList: https://www.youtube.com/watch?v=uhPLWdvrF9g&amp;list=PLB1G
 26. [Java 8 Streams count() Method](https://youtu.be/bmfppT0Uygo)
 27. [Java 8 Streams collect() Method](https://youtu.be/9kVDY_9kCt4)
 28. [How to convert a Java 8 Stream to an Array?](https://youtu.be/tGWKHCSNfYc)
+29. [Java 8 Streams foreach() Method Example](https://youtu.be/1g05Bxv40x4)
 
 ## [Chick here to Subscribe our YouTube Channel](https://www.youtube.com/channel/UCl31HHUdQbSHOQfc9L-wo3w?sub_confirmation=1)
 
