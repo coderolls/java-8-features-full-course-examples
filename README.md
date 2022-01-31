@@ -34,9 +34,10 @@ Link to the PlayList: https://www.youtube.com/watch?v=uhPLWdvrF9g&amp;list=PLB1G
 27. [Java 8 Streams collect() Method](https://youtu.be/9kVDY_9kCt4)
 28. [How to convert a Java 8 Stream to an Array?](https://youtu.be/tGWKHCSNfYc)
 29. [Java 8 Streams foreach() Method Example](https://youtu.be/1g05Bxv40x4)
-30. [30 Java 8 Stream.of() Method Example](https://youtu.be/_LCoJdS3OxA)
+30. [Java 8 Stream.of() Method Example](https://youtu.be/_LCoJdS3OxA)
 31. [How To Use Java 8 Optional Class?](https://youtu.be/14pFTG8tUu8)
 32. [Java 8 Stream min() and max() Methods Example](https://youtu.be/NMt2sBCdgDc)
+33. [Java 8 Streams flatMap() Method With Example](https://youtu.be/r8mCHFpD6kc)
 
 ## [Chick here to Subscribe our YouTube Channel](https://www.youtube.com/channel/UCl31HHUdQbSHOQfc9L-wo3w?sub_confirmation=1)
 
