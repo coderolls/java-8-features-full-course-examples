@@ -1,4 +1,4 @@
-package com.coderolls.java.date_and_time.localetime;
+package com.coderolls.java.date_and_time.localtime;
 
 import java.time.LocalTime;
 
