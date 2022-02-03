@@ -38,6 +38,12 @@ Link to the PlayList: https://www.youtube.com/watch?v=uhPLWdvrF9g&amp;list=PLB1G
 31. [How To Use Java 8 Optional Class?](https://youtu.be/14pFTG8tUu8)
 32. [Java 8 Stream min() and max() Methods Example](https://youtu.be/NMt2sBCdgDc)
 33. [Java 8 Streams flatMap() Method With Example](https://youtu.be/r8mCHFpD6kc)
+34. [LocalDate Class in Java 8 Date and Time API](https://youtu.be/ffTQmuaFzas)
+35. [LocalTime Class in Java 8 Date And Time API](https://youtu.be/QMRgCUo3xsg)
+36. [LocalDateTime Class in Java 8 Date And Time API](https://youtu.be/Va-or8sxpSw)
+37. [How To Represent A Particular Date and Time Using LocalDateTime Class?](https://youtu.be/dCVYgWET76M)
+38. [How To Calculate The Age In Java?](https://youtu.be/qaZA0i-embY) 
+
 
 ## [Chick here to Subscribe our YouTube Channel](https://www.youtube.com/channel/UCl31HHUdQbSHOQfc9L-wo3w?sub_confirmation=1)
 
