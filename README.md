@@ -42,7 +42,8 @@ Link to the PlayList: https://www.youtube.com/watch?v=uhPLWdvrF9g&amp;list=PLB1G
 35. [LocalTime Class in Java 8 Date And Time API](https://youtu.be/QMRgCUo3xsg)
 36. [LocalDateTime Class in Java 8 Date And Time API](https://youtu.be/Va-or8sxpSw)
 37. [How To Represent A Particular Date and Time Using LocalDateTime Class?](https://youtu.be/dCVYgWET76M)
-38. [How To Calculate The Age In Java?](https://youtu.be/qaZA0i-embY) 
+38. [How To Calculate The Age In Java?](https://youtu.be/qaZA0i-embY)
+39. [How To Calculate Duration Between Two Times In Java?](https://youtu.be/jx2rgFkgXbg)
 
 
 ## [Chick here to Subscribe our YouTube Channel](https://www.youtube.com/channel/UCl31HHUdQbSHOQfc9L-wo3w?sub_confirmation=1)
