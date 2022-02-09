@@ -44,6 +44,7 @@ Link to the PlayList: https://www.youtube.com/watch?v=uhPLWdvrF9g&amp;list=PLB1G
 37. [How To Represent A Particular Date and Time Using LocalDateTime Class?](https://youtu.be/dCVYgWET76M)
 38. [How To Calculate The Age In Java?](https://youtu.be/qaZA0i-embY)
 39. [How To Calculate Duration Between Two Times In Java?](https://youtu.be/jx2rgFkgXbg)
+40. [Calculate Difference Between Two Dates Using Java 8 ChronoUnit](https://youtu.be/m8qP0ZyhMYo)
 
 
 ## [Chick here to Subscribe our YouTube Channel](https://www.youtube.com/channel/UCl31HHUdQbSHOQfc9L-wo3w?sub_confirmation=1)
