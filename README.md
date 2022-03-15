@@ -46,6 +46,7 @@ Link to the PlayList: https://www.youtube.com/watch?v=uhPLWdvrF9g&amp;list=PLB1G
 39. [How To Calculate Duration Between Two Times In Java?](https://youtu.be/jx2rgFkgXbg)
 40. [Calculate Difference Between Two Dates Using Java 8 ChronoUnit](https://youtu.be/m8qP0ZyhMYo)
 41. [Instant Class In Java 8 Date And Time API](https://youtu.be/7k-YYH4yUxQ)
+42. [ZonedDateTime Class In Java 8 Date And Time API](https://youtu.be/OgZYxNiwm2Y)
 
 
 ## [Chick here to Subscribe our YouTube Channel](https://www.youtube.com/channel/UCl31HHUdQbSHOQfc9L-wo3w?sub_confirmation=1)
